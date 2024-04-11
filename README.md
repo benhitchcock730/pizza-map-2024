@@ -1,5 +1,3 @@
-# Pizza Party 2024
+Feeding the Newest New Yorkers: Rethink Food's Restaurant Partners and Shelter Sites
 
-Our web mapping class crowd-sourced a dataset of our favorite pizza places in NYC. The google sheet was exported as a CSV, converted to JSON and used to add markers to this Mapbox GL JS map.
-
-We added popups with text including variables from the data.
+This map shows where NYC food security nonprofit Rethink Food has been serving meals to asylum seekers. 
