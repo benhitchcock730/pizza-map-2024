@@ -28,7 +28,7 @@ body {
     left: 20px;
     z-index: 1;
     width: 250px;
-    background: #ececec;
+    background: #c2e2bd;
     padding: 15px;
     border-radius: 10px;
     -webkit-box-shadow: 0px 0px 2px 2px rgb(116 116 116)
@@ -70,7 +70,7 @@ body {
     line-height: 18px;
     margin-bottom: 12px;
     border: 1px solid #ccc;
-    background: white;
+    background: rgb(255, 255, 255);
     border-radius: 5px;
     font-size: 12px;
 }

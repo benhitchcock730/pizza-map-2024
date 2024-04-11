@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Pizza Party 2024</title>
+    <title>Rethink Food Partners and Sites</title>
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
     <link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
@@ -12,29 +12,31 @@
 <body>
     <div id="sidebar">
         <div class="header">
-            <span class="pizza-emoji">🍕</span>
-            <h1>Pizza Party 2024</h1>
+            
+            <h1>Feeding the Newest New Yorkers: Rethink Food's Restaurant Partners and Shelter Sites</h1>
         </div>
-        <p>Our web mapping class crowd-sourced a dataset of our favorite pizza places in NYC. The google sheet was exported as a CSV, converted to JSON and used to add markers to this Mapbox GL JS map.</p>
-        <p>We added popups with text including variables from the data.</p>
-        <p><strong>Click a marker for details</strong></p>
+        <p>More than 180,000 asylum seekers have arrived in New York City in the last 18 months.</p>
+        <p>Rethink Food is a New York City-based nonprofit with a mission of combating food insecurity. </p>
+        <p>Currently, Rethink is contracted with the city government to provide three meals a day at various temporary asylum seeker shelter sites in New York City. </p>
+        <p>Rethink supplies these meals by partnering with local restaurants. The restaurants cook the meals and deliver them to the shelter sites, with Rethink providing organizational and logistical support.</p>
+        <p>This map shows selected asylum seeker shelter sites and the locations of Rethink's restaurant partners. This information will allow Rethink to plan its delivery processes more efficiently.</p>
+        <!-- Obviously this amount of information isn't super useful yet, but in the coming weeks I will be able to flesh this out with more details to help decisionmaking, like maybe travel time between sites -->
+        <p><strong>Click a marker to learn more about the site or restaurant partner.</strong></p>
         <div class="legend">
             <div>
-                <span class="legend-key" style="background-color: #8dd6a1;"></span>
-                <span>Professor</span>
-            </div>
-            <div>
                 <span class="legend-key" style="background-color: #d67ea6;"></span>
-                <span>Urban Planning Students</span>
+                <span>Rethink Headquarters</span>
             </div>
             <div>
-                <span class="legend-key" style="background-color: #1f8f39;"></span>
-                <span>Public Administration Students</span>
+                <span class="legend-key" style="background-color: #8dd6a1;"></span>
+                <span>Asylum Seeker Shelters</span>
             </div>
+            
             <div>
-                <span class="legend-key" style="background-color: #8f5b1f;"></span>
-                <span>Public Policy Students</span>
+                <span class="legend-key" style="background-color: #0077b6;"></span>
+                <span>Restaurant Partners</span>
             </div>
+           
         </div>
         <a class="source-code-link" href="https://github.com/chriswhong/pizza-map-2024">Source Code</a>
     </div>
