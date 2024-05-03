@@ -1,49 +1,48 @@
 var pizzaData = [
     {
         "name": "Floyd Bennet Field",
-        "pizza_restaurant_name": "currently houses about 2,000 migrants.",
+        "number": "2,000",
         "longitude": -73.88949330384084,
         "latitude": 40.5911721677568,
         "program": "Asylum Seeker Shelter"
     },
     {
         "name": "JFK Airport Hangar",
-        "pizza_restaurant_name": "currently houses about 700 migrants.",
+        "number": "700",
         "longitude": -73.76935716147023,
         "latitude": 40.65362364444828,
         "program": "Asylum Seeker Shelter"
     },
     {
         "name": "The Roosevelt Hotel",
-        "pizza_restaurant_name": "currently houses about 3,100 migrants.",
+        "number": "3,100",
         "longitude": -73.97568893169839,
         "latitude": 40.755190389854576,
         "program": "Asylum Seeker Shelter"
     },
     {
         "name": "Beatstro",
-        "pizza_restaurant_name": "has provided more than 95,000 meals to asylum seekers so far.",
+        "number": "95,000",
         "longitude": -73.92707039162654,
         "latitude": 40.80753274886378, 
         "program": "Restaurant Partner"
     },
     {
         "name": "Brain Food",
-        "pizza_restaurant_name": "has provided more than 21,000 meals to asylum seekers so far.",
+        "number": "21,000",
         "longitude": -73.99118972046641,
         "latitude": 40.69080464712702, 
         "program": "Restaurant Partner"
     },
     {
         "name": "Marlow Bistro",
-        "pizza_restaurant_name": "has provided more than 35,000 meals to asylum seekers so far.",
+        "number": "35,000",
         "longitude":  -73.96366285050132,
         "latitude": 40.80320969545546,
         "program": "Restaurant Partner"
     },
     {
         "name": "Rethink HQ",
-        "pizza_restaurant_name": "is where the nonprofit's full time staff is located.",
         "longitude": -74.01115533109368,
         "latitude": 40.70500051637887, 
         "program": "Rethink Food HQ"
